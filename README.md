@@ -1,1 +1,1 @@
-test file
+Hello, friend! How are you?
