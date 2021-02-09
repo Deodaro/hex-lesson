@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Deodaro/hex-lessons/issues"
   },
-  "homepage": "https://github.com/Deodaro/hex-lessons#readme"
+  "homepage": "https://github.com/Deodaro/hex-lessons#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
