@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Deodaro/hex-lessons#readme",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
